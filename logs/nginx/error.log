@@ -1,2 +1,4 @@
 2022/07/19 13:45:24 [alert] 4596#4788: OpenEvent("ngx_master_1436") failed (2: FormatMessage() error:(15100))
 2022/07/21 12:28:33 [alert] 12792#12788: OpenEvent("ngx_master_1320") failed (2: FormatMessage() error:(15100))
+2022/07/21 13:44:11 [alert] 10880#6308: OpenEvent("ngx_master_4696") failed (2: FormatMessage() error:(15100))
+2022/07/26 12:29:45 [error] 10908#8884: *2078 directory index of "C:/Users/Usuario/Local Sites/uniquesstyle/app/public/wp-content/cache/" is forbidden, client: 127.0.0.1, server: , request: "GET /wp-content/cache/ HTTP/1.0", host: "uniquesstyle.local", referrer: "http://uniquesstyle.local/wp-content/cache/"
